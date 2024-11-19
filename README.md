@@ -8,13 +8,13 @@
 
 4) The result of the session will be saved in the text file "log".
 
-![Image alt](https://github.com/Ganzelierro/btc_cracker/blob/main/btc.gif)
+
 
 #About:
 
 all code optimize for threading in any pc and tablet can running with c++. You don’t need to download or install anything additional to work!
 
-![Image alt](https://github.com/Ganzelierro/btc_cracker/blob/main/btc2.gif)
+
 
 + Use Node Exclusive.
 
