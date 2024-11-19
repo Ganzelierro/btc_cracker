@@ -8,7 +8,7 @@
 
 4) The result of the session will be saved in the text file "log".
 
-
+![Image alt](https://github.com/Ganzelierro/btc_cracker/blob/main/btc.gif)
 
 #About:
 
